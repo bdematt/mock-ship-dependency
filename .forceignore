@@ -14,3 +14,8 @@ package.xml
 # TypeScript configuration (not deployed)
 tsconfig.json
 **/tsconfig.*.json
+
+# sf-ship
+**/*.profile-meta.xml
+**/*.appMenu-meta.xml
+**/sfdcInternalInt__*.permissionset-meta.xml
